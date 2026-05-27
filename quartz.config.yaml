@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: null
   locale: zh-CN
-  baseUrl: davidchou.xyz
+  baseUrl: chou.digital
   ignorePatterns:
     - .obsidian
     - "*.excalidraw.md"
