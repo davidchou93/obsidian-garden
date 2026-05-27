@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: null
   locale: zh-CN
-  baseUrl: doctor-david.org
+  baseUrl: articles.doctor-david.org
   ignorePatterns:
     - .obsidian
     - "*.excalidraw.md"
